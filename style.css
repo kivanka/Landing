@@ -1,0 +1,2629 @@
+.e-food,
+.e-food * {
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f8f8;
+  width: auto;
+}
+.e-food {
+  background: linear-gradient(
+    180deg,
+    rgba(240, 240, 240, 1) 0%,
+    rgba(255, 255, 255, 0.38) 100%
+  );
+  width: 1440px;
+  height: 5791px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.header-site-bar {
+  width: 1171px;
+  height: 50.41px;
+  position: static;
+}
+.e-food2 {
+  display: inline;
+  text-align: left;
+  font: 500 33px "Rubik", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 60.29px;
+  width: 106px;
+  height: 38.55px;
+}
+.e-food-2-span {
+  color: #ff6838;
+  font: 500 33px "Rubik", sans-serif;
+}
+.e-food-2-span2 {
+  color: #363853;
+  font: 500 33px "Rubik", sans-serif;
+}
+.cta {
+  width: 120px;
+  height: 50.41px;
+  position: static;
+}
+.rectangle-39 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 5px;
+  width: 120px;
+  height: 50.41px;
+  position: absolute;
+  left: 1187px;
+  top: 54.36px;
+  box-shadow: var(
+    --clorshadow-box-shadow,
+    0px 22px 40px 0px rgba(255, 104, 56, 0.19)
+  );
+}
+.sign-up {
+  color: var(--mainbackwhite, #ffffff);
+  text-align: center;
+  font: 400 18px "Rubik", sans-serif;
+  position: absolute;
+  left: 1215px;
+  top: 69.19px;
+  width: 65px;
+  height: 20.76px;
+}
+.group-36202 {
+  width: 606.5px;
+  height: 23.72px;
+  position: static;
+}
+.home {
+  color: #ff6838;
+  text-align: left;
+  font: 400 18px "Rubik", sans-serif;
+  position: absolute;
+  left: 521px;
+  top: 68.2px;
+  width: 50px;
+  height: 20.76px;
+}
+.service {
+  color: #363853;
+  text-align: left;
+  font: 400 18px "Rubik", sans-serif;
+  position: absolute;
+  left: 631px;
+  top: 68.2px;
+  width: 63px;
+  height: 20.76px;
+}
+.top-cities {
+  color: #363853;
+  text-align: left;
+  font: 400 18px "Rubik", sans-serif;
+  position: absolute;
+  left: 754px;
+  top: 68.2px;
+  width: 80px;
+  height: 20.76px;
+}
+.contract {
+  color: #363853;
+  text-align: left;
+  font: 400 18px "Rubik", sans-serif;
+  position: absolute;
+  left: 891px;
+  top: 68.2px;
+  width: 74px;
+  height: 20.76px;
+}
+.buy {
+  position: absolute;
+  left: 1109px;
+  top: 70.18px;
+  overflow: visible;
+}
+.iconly-light-search {
+  width: 24px;
+  height: 23.72px;
+  position: absolute;
+  left: 1025px;
+  top: 67.21px;
+}
+.search {
+  position: absolute;
+  left: 2.78px;
+  top: 2.75px;
+  overflow: visible;
+}
+.content {
+  width: 1243px;
+  height: 827px;
+  position: static;
+}
+.order {
+  width: 14px;
+  height: 14px;
+  position: static;
+}
+.ellipse-14 {
+  background: #ff6838;
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  left: 1122px;
+  top: 65px;
+}
+._4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 10px "Rubik", sans-serif;
+  position: absolute;
+  left: 1126px;
+  top: 67px;
+  width: 6px;
+  height: 9px;
+}
+.super-fast-food-delivery-service {
+  text-align: left;
+  font: 500 66px "Rubik", sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 325px;
+}
+.super-fast-food-delivery-service-span {
+  color: var(--primary, #363853);
+  font: 500 66px "Rubik", sans-serif;
+}
+.super-fast-food-delivery-service-span2 {
+  color: var(--secondary, #ff7a50);
+  font: 500 66px "Rubik", sans-serif;
+}
+.super-fast-food-delivery-service-span3 {
+  color: var(--primary, #363853);
+  font: 500 66px "Rubik", sans-serif;
+}
+.we-provide-super-fast-delivery-service-let-s-use-our-services-right-now-and-get-discounts-of-up-to-50 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 504px;
+  width: 513px;
+  height: 66px;
+}
+.explore-cta {
+  width: 328px;
+  height: 50.41px;
+  position: static;
+}
+.cta2 {
+  width: 163px;
+  height: 50.41px;
+  position: static;
+}
+.rectangle-392 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 5px;
+  width: 163px;
+  height: 50.41px;
+  position: absolute;
+  left: 135px;
+  top: 614.78px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    0px 22px 40px 0px rgba(255, 104, 56, 0.19)
+  );
+}
+.explore-food {
+  color: var(--mainbackwhite, #ffffff);
+  text-align: center;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 156px;
+  top: 627.63px;
+  width: 121px;
+  height: 23.72px;
+}
+.download-app {
+  color: var(--primary, #363853);
+  text-align: center;
+  font: 400 20px "Rubik", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 328px;
+  top: 627.63px;
+  width: 135px;
+  height: 23.72px;
+}
+.group-36213-1 {
+  width: 733px;
+  height: 682px;
+  position: absolute;
+  left: 645px;
+  top: 210px;
+}
+.shape {
+  position: absolute;
+  inset: 0;
+}
+.shape-blur {
+  position: absolute;
+  left: 1577px;
+  top: 3343px;
+  transform: translate(-1577px, -444px);
+  overflow: visible;
+}
+.shape-blur2 {
+  position: absolute;
+  left: -102px;
+  top: 1543px;
+  overflow: visible;
+}
+.our-popular-category {
+  position: absolute;
+  inset: 0;
+}
+.our-popular-category2 {
+  text-align: left;
+  font: 500 36px "Rubik", sans-serif;
+  position: absolute;
+  left: 524px;
+  top: 985px;
+  width: 376px;
+}
+.our-popular-category-2-span {
+  color: var(--primary, #363853);
+  font: 500 36px "Rubik", sans-serif;
+}
+.our-popular-category-2-span2 {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px "Rubik", sans-serif;
+}
+.category {
+  width: 1154px;
+  height: 70px;
+  position: static;
+}
+.burger-catagory {
+  width: 210px;
+  height: 70px;
+  position: static;
+}
+.rectangle-48 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 8px;
+  width: 210px;
+  height: 70px;
+  position: absolute;
+  left: 135px;
+  top: 1083px;
+  box-shadow: var(--shadow-box-shadow, 0px 4px 12px 0px rgba(0, 0, 0, 0.12));
+}
+.burger {
+  width: 116px;
+  height: 44px;
+  position: static;
+}
+.burger2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 234px;
+  top: 1106px;
+}
+.burger-1 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 182px;
+  top: 1096px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+}
+.pizza-catagory {
+  width: 210px;
+  height: 70px;
+  position: static;
+}
+.rectangle-482 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 210px;
+  height: 70px;
+  position: absolute;
+  left: 371px;
+  top: 1083px;
+}
+.pizza {
+  width: 121px;
+  height: 62.23px;
+  position: static;
+}
+.pizza2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 487px;
+  top: 1106px;
+}
+.pizza-1 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 417.11px;
+  top: 1149.23px;
+  transform-origin: 0 0;
+  transform: rotate(360deg) scale(1, -1);
+  overflow: hidden;
+}
+.group2 {
+  position: absolute;
+  inset: 0;
+}
+.group3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group4 {
+  position: absolute;
+  left: 7.7px;
+  top: 22.65px;
+  overflow: visible;
+}
+.group5 {
+  position: absolute;
+  left: 4.08px;
+  top: 15.82px;
+  overflow: visible;
+}
+.group6 {
+  position: absolute;
+  left: 22.47px;
+  top: 10.96px;
+  overflow: visible;
+}
+.group7 {
+  position: absolute;
+  left: 22.25px;
+  top: 21.65px;
+  overflow: visible;
+}
+.group8 {
+  position: absolute;
+  left: 17.39px;
+  top: 17.77px;
+  overflow: visible;
+}
+.group9 {
+  position: absolute;
+  left: 17.72px;
+  top: 21.95px;
+  overflow: visible;
+}
+.asian-food {
+  width: 210px;
+  height: 70px;
+  position: static;
+}
+.rectangle-483 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 210px;
+  height: 70px;
+  position: absolute;
+  left: 843px;
+  top: 1083px;
+}
+.asian-food2 {
+  width: 156px;
+  height: 44px;
+  position: static;
+}
+.sandwich-1 {
+  width: 103px;
+  height: 24px;
+  position: static;
+}
+.asian-food3 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 923px;
+  top: 1106px;
+}
+.sandwich-12 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 870px;
+  top: 1096px;
+  overflow: hidden;
+}
+.christmas-dinner-2 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.group10 {
+  position: absolute;
+  left: 0px;
+  top: 5.77px;
+  overflow: visible;
+}
+.set-menu {
+  width: 210px;
+  height: 70px;
+  position: static;
+}
+.rectangle-484 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 210px;
+  height: 70px;
+  position: absolute;
+  left: 1079px;
+  top: 1083px;
+}
+.frame-36221 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1113px;
+  top: calc(50% - 1799.5px);
+}
+.dish-1 {
+  flex-shrink: 0;
+  width: 44px;
+  height: 43.49px;
+  position: relative;
+  overflow: hidden;
+}
+.group11 {
+  position: absolute;
+  left: 23.47px;
+  top: 10.87px;
+  overflow: visible;
+}
+.group12 {
+  position: absolute;
+  left: 12.47px;
+  top: 10.87px;
+  overflow: visible;
+}
+.group13 {
+  position: absolute;
+  left: 14.67px;
+  top: 10.87px;
+  overflow: visible;
+}
+.group14 {
+  position: absolute;
+  left: 16.87px;
+  top: 10.87px;
+  overflow: visible;
+}
+.group15 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group16 {
+  position: absolute;
+  left: 19.63px;
+  top: 34.7px;
+  overflow: visible;
+}
+.group17 {
+  position: absolute;
+  left: 31.1px;
+  top: 12.15px;
+  overflow: visible;
+}
+.group18 {
+  width: 9.67px;
+  height: 2.33px;
+  position: static;
+}
+.group19 {
+  position: absolute;
+  left: 16.35px;
+  top: 7.25px;
+  overflow: visible;
+}
+.group20 {
+  position: absolute;
+  left: 7.33px;
+  top: 12.91px;
+  overflow: visible;
+}
+.set-menu2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: relative;
+}
+.sandwich-catagory {
+  width: 210px;
+  height: 70px;
+  position: static;
+}
+.rectangle-485 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 210px;
+  height: 70px;
+  position: absolute;
+  left: 607px;
+  top: 1083px;
+}
+.sandwich {
+  width: 143px;
+  height: 44px;
+  position: static;
+}
+.sandwich-13 {
+  width: 90px;
+  height: 24px;
+  position: static;
+}
+.sandwich2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 694px;
+  top: 1106px;
+}
+.sandwich-14 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 641px;
+  top: 1096px;
+  overflow: hidden;
+}
+.group21 {
+  width: 44px;
+  height: 44px;
+  position: static;
+}
+.group22 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.burger-with-salat {
+  width: 208px;
+  height: 279px;
+  position: static;
+}
+.rectangle-49 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 208px;
+  height: 279px;
+  position: absolute;
+  left: 134px;
+  top: 1192px;
+}
+.cta3 {
+  width: 106px;
+  height: 32px;
+  position: static;
+}
+.rectangle-486 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 2px;
+  width: 106px;
+  height: 32px;
+  position: absolute;
+  left: 185px;
+  top: 1417px;
+}
+.add-to-cart {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 198px;
+  top: 1424px;
+}
+.item-01-480-x-480-1 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 166px;
+  top: 1192px;
+}
+.star {
+  width: 120px;
+  height: 19.77px;
+  position: static;
+}
+.icons-star {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 279.5px;
+  top: 1314.16px;
+}
+.star2 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star2 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 257px;
+  top: 1314.16px;
+}
+.star3 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star3 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 232px;
+  top: 1314.16px;
+}
+.star4 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star4 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 207px;
+  top: 1314.16px;
+}
+.star5 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star5 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 182px;
+  top: 1314.16px;
+}
+.star6 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.cheeseburger-with-salad {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 1361px;
+}
+._18-00 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 500 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 214px;
+  top: 1388px;
+}
+.rectangle-492 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 208px;
+  height: 279px;
+  position: absolute;
+  left: 371px;
+  top: 1192px;
+}
+.rectangle-487 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 2px;
+  width: 106px;
+  height: 32px;
+  position: absolute;
+  left: 422px;
+  top: 1417px;
+}
+.add-to-cart2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 435px;
+  top: 1424px;
+}
+.burger3 {
+  width: 119.99px;
+  height: 110.15px;
+  position: absolute;
+  left: 410.18px;
+  top: 1214.46px;
+  transform-origin: 0 0;
+  transform: rotate(-5deg) scale(1, 1);
+}
+.icons-star6 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 516.5px;
+  top: 1314.16px;
+}
+.star7 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star7 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 494px;
+  top: 1314.16px;
+}
+.star8 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star8 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 469px;
+  top: 1314.16px;
+}
+.star9 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star9 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 444px;
+  top: 1314.16px;
+}
+.star10 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star10 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 419px;
+  top: 1314.16px;
+}
+.star11 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.beef-burger {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 433px;
+  top: 1361px;
+}
+._15-00 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 500 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 451px;
+  top: 1388px;
+}
+.rectangle-493 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 208px;
+  height: 279px;
+  position: absolute;
+  left: 608px;
+  top: 1192px;
+}
+.rectangle-488 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 2px;
+  width: 106px;
+  height: 32px;
+  position: absolute;
+  left: 659px;
+  top: 1417px;
+}
+.add-to-cart3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 672px;
+  top: 1424px;
+}
+.item-01-480-x-480-12 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 640px;
+  top: 1192px;
+}
+.icons-star11 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 753.5px;
+  top: 1314.16px;
+}
+.star12 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star12 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 731px;
+  top: 1314.16px;
+}
+.star13 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star13 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 706px;
+  top: 1314.16px;
+}
+.star14 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star14 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 681px;
+  top: 1314.16px;
+}
+.star15 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star15 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 656px;
+  top: 1314.16px;
+}
+.star16 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.royel-cheeseburger {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 1361px;
+}
+._16-00 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 500 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 688px;
+  top: 1388px;
+}
+.rectangle-494 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 208px;
+  height: 279px;
+  position: absolute;
+  left: 845px;
+  top: 1192px;
+}
+.rectangle-489 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 2px;
+  width: 106px;
+  height: 32px;
+  position: absolute;
+  left: 896px;
+  top: 1417px;
+}
+.add-to-cart4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 909px;
+  top: 1424px;
+}
+.item-01-480-x-480-13 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 877px;
+  top: 1192px;
+}
+.icons-star16 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 990.5px;
+  top: 1314.16px;
+}
+.star17 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star17 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 968px;
+  top: 1314.16px;
+}
+.star18 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star18 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 943px;
+  top: 1314.16px;
+}
+.star19 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star19 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 918px;
+  top: 1314.16px;
+}
+.star20 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star20 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 893px;
+  top: 1314.16px;
+}
+.star21 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.black-gambugrer {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 889px;
+  top: 1361px;
+}
+._14-00 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 500 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 925px;
+  top: 1388px;
+}
+.rectangle-495 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 208px;
+  height: 279px;
+  position: absolute;
+  left: 1082px;
+  top: 1192px;
+}
+.rectangle-4810 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 2px;
+  width: 106px;
+  height: 32px;
+  position: absolute;
+  left: 1133px;
+  top: 1417px;
+}
+.add-to-cart5 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 1146px;
+  top: 1424px;
+}
+.item-01-480-x-480-14 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 1114px;
+  top: 1192px;
+}
+.icons-star21 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 1227.5px;
+  top: 1314.16px;
+}
+.star22 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star22 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 1205px;
+  top: 1314.16px;
+}
+.star23 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star23 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 1180px;
+  top: 1314.16px;
+}
+.star24 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star24 {
+  width: 20px;
+  height: 19.77px;
+  position: absolute;
+  left: 1155px;
+  top: 1314.16px;
+}
+.star25 {
+  position: absolute;
+  left: 1.67px;
+  top: 2.06px;
+  overflow: visible;
+}
+.icons-star25 {
+  width: 22.5px;
+  height: 19.77px;
+  position: absolute;
+  left: 1130px;
+  top: 1314.16px;
+}
+.star26 {
+  position: absolute;
+  left: 1.87px;
+  top: 2.06px;
+  overflow: visible;
+}
+.chicken-burger {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 1132px;
+  top: 1361px;
+}
+._15-002 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 500 15px "Rubik", sans-serif;
+  position: absolute;
+  left: 1162px;
+  top: 1388px;
+}
+.content2 {
+  width: 208px;
+  height: 34px;
+  position: static;
+}
+.next {
+  width: 90px;
+  height: 12.12px;
+  position: static;
+}
+.ellipse-54 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 50%;
+  width: 12.12px;
+  height: 12.12px;
+  position: absolute;
+  left: 692.96px;
+  top: 1521.94px;
+}
+.ellipse-55 {
+  background: var(--primary, #363853);
+  border-radius: 50%;
+  opacity: 0.20000000298023224;
+  width: 12.12px;
+  height: 12.12px;
+  position: absolute;
+  left: 667px;
+  top: 1521.94px;
+}
+.ellipse-56 {
+  background: var(--primary, #363853);
+  border-radius: 50%;
+  opacity: 0.20000000298023224;
+  width: 12.12px;
+  height: 12.12px;
+  position: absolute;
+  left: 718.92px;
+  top: 1521.94px;
+}
+.ellipse-57 {
+  background: var(--primary, #363853);
+  border-radius: 50%;
+  opacity: 0.20000000298023224;
+  width: 12.12px;
+  height: 12.12px;
+  position: absolute;
+  left: 744.88px;
+  top: 1521.94px;
+}
+.up-arrow-1 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 782px;
+  top: 1511px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.group23 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.up-arrow-2 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 608px;
+  top: 1545px;
+  transform-origin: 0 0;
+  transform: rotate(360deg) scale(1, -1);
+  overflow: hidden;
+}
+.group24 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.section-3 {
+  position: absolute;
+  inset: 0;
+}
+.food-delivery-4 {
+  width: 626px;
+  height: 723px;
+  position: absolute;
+  left: 708px;
+  top: 1632px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.content3 {
+  width: 449px;
+  height: 497px;
+  position: static;
+}
+.stay-at-home-we-will-provide-good-food {
+  text-align: left;
+  font: 500 36px/50px "Rubik", sans-serif;
+  position: absolute;
+  left: 845px;
+  top: 1746px;
+  width: 384px;
+}
+.stay-at-home-we-will-provide-good-food-span {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px/50px "Rubik", sans-serif;
+}
+.stay-at-home-we-will-provide-good-food-span2 {
+  color: var(--primary, #363853);
+  font: 500 36px/50px "Rubik", sans-serif;
+}
+.stay-at-home-we-will-provide-good-food-span3 {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px/50px "Rubik", sans-serif;
+}
+.we-provide-tasty-food-and-superfast-delivery-at-your-home-let-s-use-our-services-right-now-and-get-discounts-of-up-to-50 {
+  color: #363853;
+  text-align: left;
+  font: 400 20px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 845px;
+  top: 1876px;
+  width: 449px;
+  height: 103px;
+}
+.fast-delivery {
+  width: 394px;
+  height: 34px;
+  position: static;
+}
+.timer-icon {
+  width: 40.04px;
+  height: 34px;
+  position: static;
+}
+.time {
+  width: 34px;
+  height: 34px;
+  position: static;
+}
+.stopwatch-1 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 845px;
+  top: 1992px;
+  overflow: hidden;
+}
+.xmlid-981 {
+  position: absolute;
+  inset: 0;
+}
+.xmlid-290 {
+  width: 34px;
+  height: 31.74px;
+  position: static;
+}
+.xmlid-291 {
+  position: absolute;
+  left: 0px;
+  top: 1.13px;
+  overflow: visible;
+}
+.ellipse-20 {
+  background: linear-gradient(
+    90.26deg,
+    rgba(249, 148, 98, 1) 0%,
+    rgba(249, 148, 98, 0.65) 100%
+  );
+  border-radius: 50%;
+  opacity: 0.3499999940395355;
+  width: 26.04px;
+  height: 27px;
+  position: absolute;
+  left: 859px;
+  top: 1992px;
+}
+.fasted-delivery-in-30-minutes {
+  color: #363853;
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 911px;
+  top: 1993px;
+}
+.fasted-delivery-in-30-minutes-span {
+  color: #363853;
+  font: 400 24px/30px "Rubik", sans-serif;
+}
+.fasted-delivery-in-30-minutes-span2 {
+  color: #363853;
+  font: 400 24px/30px "Rubik", sans-serif;
+}
+.delivery {
+  width: 270px;
+  height: 33.61px;
+  position: static;
+}
+.delivery-icon {
+  width: 30px;
+  height: 29.65px;
+  position: static;
+}
+.men {
+  width: 30px;
+  height: 29.65px;
+  position: static;
+}
+.delivery-1 {
+  width: 30px;
+  height: 29.65px;
+  position: absolute;
+  left: 845px;
+  top: 2051.95px;
+  overflow: hidden;
+}
+.outline {
+  position: absolute;
+  left: 0.94px;
+  top: 0.93px;
+  overflow: visible;
+}
+._300-delivery-men {
+  color: #363853;
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 906px;
+  top: 2048px;
+}
+.resturent {
+  width: 394px;
+  height: 37px;
+  position: static;
+}
+._500-restaurant-cafe-shop {
+  color: #363853;
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 905px;
+  top: 2103px;
+}
+.resturent-icon {
+  width: 34.19px;
+  height: 37px;
+  position: static;
+}
+.resturent2 {
+  width: 28px;
+  height: 28px;
+  position: static;
+}
+.shop-1 {
+  position: absolute;
+  left: 845px;
+  top: 2108px;
+  overflow: visible;
+}
+.ellipse-202 {
+  background: var(
+    --red,
+    linear-gradient(
+      90.26deg,
+      rgba(255, 112, 112, 1) 0%,
+      rgba(255, 112, 112, 0.65) 100%
+    )
+  );
+  border-radius: 50%;
+  opacity: 0.15000000596046448;
+  width: 24.19px;
+  height: 25px;
+  position: absolute;
+  left: 855px;
+  top: 2099px;
+}
+.cta4 {
+  width: 176px;
+  height: 58px;
+  position: static;
+}
+.rectangle-51 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 30px 30px 1px 30px;
+  width: 176px;
+  height: 58px;
+  position: absolute;
+  left: 845px;
+  top: 2185px;
+  box-shadow: var(
+    --clorshadow-box-shadow,
+    0px 22px 40px 0px rgba(255, 104, 56, 0.19)
+  );
+}
+.see-more {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 889px;
+  top: 2202px;
+}
+.ellipse-203 {
+  background: linear-gradient(
+    90.26deg,
+    rgba(71, 194, 255, 1) 0%,
+    rgba(99, 203, 254, 1) 100%
+  );
+  border-radius: 50%;
+  opacity: 0.15000000596046448;
+  width: 25px;
+  height: 25.14px;
+  position: absolute;
+  left: 853px;
+  top: 2048px;
+}
+.section-4 {
+  position: absolute;
+  inset: 0;
+}
+.top-food-restaurant {
+  text-align: left;
+  font: 500 36px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 540px;
+  top: 2483px;
+}
+.top-food-restaurant-span {
+  color: var(--primary, #363853);
+  font: 500 36px/30px "Rubik", sans-serif;
+}
+.top-food-restaurant-span2 {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px/30px "Rubik", sans-serif;
+}
+.content4 {
+  width: 1169px;
+  height: 877px;
+  position: static;
+}
+.blaze-pizza {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-52 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 135px;
+  top: 2563px;
+}
+.blaze-pizza2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 155px;
+  top: 2884px;
+}
+._11-00-am-10-00-pm {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 185px;
+  top: 2928px;
+}
+.rectangle-54 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 135px;
+  top: 2563px;
+}
+.rectangle-53 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 135px;
+  top: 2563px;
+}
+.timer-1 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 155px;
+  top: 2932px;
+  overflow: hidden;
+}
+.group25 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.cta5 {
+  width: 79px;
+  height: 33px;
+  position: static;
+}
+.rectangle-55 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 378px;
+  top: 2925px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 406px;
+  top: 2930px;
+  overflow: hidden;
+}
+.group26 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.riyel-burger {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-522 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 135px;
+  top: 3023px;
+}
+.royel-burger {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 155px;
+  top: 3344px;
+}
+._11-00-am-10-00-pm2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 185px;
+  top: 3388px;
+}
+.rectangle-542 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 135px;
+  top: 3023px;
+}
+.rectangle-532 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 135px;
+  top: 3023px;
+}
+.timer-12 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 155px;
+  top: 3392px;
+  overflow: hidden;
+}
+.group27 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.rectangle-552 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 378px;
+  top: 3385px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-12 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 406px;
+  top: 3390px;
+  overflow: hidden;
+}
+.group28 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.pizza-ranch {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-523 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 539px;
+  top: 2563px;
+}
+.pizza-ranch2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 559px;
+  top: 2884px;
+}
+._09-00-am-10-00-pm {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 589px;
+  top: 2928px;
+}
+.rectangle-543 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 539px;
+  top: 2563px;
+}
+.rectangle-533 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 539px;
+  top: 2563px;
+}
+.timer-13 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 559px;
+  top: 2932px;
+  overflow: hidden;
+}
+.group29 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.rectangle-553 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 782px;
+  top: 2925px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-13 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 810px;
+  top: 2930px;
+  overflow: hidden;
+}
+.group30 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.kfc-restaurant {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-524 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 539px;
+  top: 3023px;
+}
+.kfc-restaurant2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 559px;
+  top: 3344px;
+}
+._09-00-am-10-00-pm2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 589px;
+  top: 3388px;
+}
+.rectangle-544 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 539px;
+  top: 3023px;
+}
+.rectangle-534 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 539px;
+  top: 3023px;
+}
+.timer-14 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 559px;
+  top: 3392px;
+  overflow: hidden;
+}
+.group31 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.rectangle-554 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 782px;
+  top: 3385px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-14 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 810px;
+  top: 3390px;
+  overflow: hidden;
+}
+.group32 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.dion-s-pizza {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-525 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 943px;
+  top: 2563px;
+}
+.dion-s-pizza-hut {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 963px;
+  top: 2884px;
+}
+._10-00-am-12-00-pm {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 993px;
+  top: 2928px;
+}
+.rectangle-545 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 943px;
+  top: 2563px;
+}
+.rectangle-535 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 943px;
+  top: 2563px;
+}
+.timer-15 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 963px;
+  top: 2932px;
+  overflow: hidden;
+}
+.group33 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.rectangle-555 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 1186px;
+  top: 2925px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-15 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1214px;
+  top: 2930px;
+  overflow: hidden;
+}
+.group34 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.star-food {
+  width: 361px;
+  height: 417px;
+  position: static;
+}
+.rectangle-526 {
+  background: #ffffff;
+  border-radius: 53px 5px 53px 5px;
+  width: 361px;
+  height: 417px;
+  position: absolute;
+  left: 943px;
+  top: 3023px;
+}
+.star-food2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 24px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 963px;
+  top: 3344px;
+}
+._10-00-am-12-00-pm2 {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 300 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 993px;
+  top: 3388px;
+}
+.rectangle-546 {
+  background: #ffffff;
+  border-radius: 53px 5px 0px 5px;
+  width: 361px;
+  height: 234px;
+  position: absolute;
+  left: 943px;
+  top: 3023px;
+}
+.rectangle-536 {
+  border-radius: 53px 5px 0px 0px;
+  width: 361px;
+  height: 299px;
+  position: absolute;
+  left: 943px;
+  top: 3023px;
+}
+.timer-16 {
+  opacity: 0.8999999761581421;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 963px;
+  top: 3392px;
+  overflow: hidden;
+}
+.group35 {
+  position: absolute;
+  left: 1.74px;
+  top: 0.97px;
+  overflow: visible;
+}
+.rectangle-556 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px 20px 0px 20px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 1186px;
+  top: 3385px;
+  box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+}
+.fi-rr-arrow-small-right-16 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1214px;
+  top: 3390px;
+  overflow: hidden;
+}
+.group36 {
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  overflow: visible;
+}
+.sectyion-5 {
+  position: absolute;
+  inset: 0;
+}
+.group-178-1 {
+  width: 617px;
+  height: 481px;
+  position: absolute;
+  left: 693px;
+  top: 3604px;
+}
+.content5 {
+  width: 538px;
+  height: 244px;
+  position: static;
+}
+.content6 {
+  width: 538px;
+  height: 174px;
+  position: static;
+}
+.download-our-mobile-app {
+  text-align: left;
+  font: 500 36px/50px "Rubik", sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 3724px;
+  width: 454px;
+}
+.download-our-mobile-app-span {
+  color: var(--primary, #363853);
+  font: 500 36px/50px "Rubik", sans-serif;
+}
+.download-our-mobile-app-span2 {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px/50px "Rubik", sans-serif;
+}
+.it-s-all-at-your-fingertips-the-restaurants-you-love-find-the-right-food-to-suit-your-mood-and-make-the-first-bite-last-go-ahead-download-app-and-get-50-discount {
+  color: #363853;
+  text-align: left;
+  font: 400 20px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 135px;
+  top: 3804px;
+  width: 538px;
+  height: 94px;
+}
+.download-app2 {
+  width: 290px;
+  height: 40px;
+  position: static;
+}
+.store-google-play-style-black {
+  background: #000000;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 1px;
+  width: 135px;
+  height: 40px;
+  position: absolute;
+  left: 290px;
+  top: 3928px;
+  overflow: hidden;
+}
+.google-play {
+  position: absolute;
+  left: 41.04px;
+  top: 17.05px;
+  overflow: visible;
+}
+.get-it-on {
+  position: absolute;
+  left: 41.35px;
+  top: 6.86px;
+  overflow: visible;
+}
+.google-play-logo {
+  position: absolute;
+  left: 9.97px;
+  top: 7.14px;
+  overflow: visible;
+}
+.store-app-store-style-black {
+  border-radius: 7px;
+  position: absolute;
+  left: 135px;
+  top: 3928px;
+  overflow: visible;
+}
+.subsc {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-640 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 20px;
+  width: 1170px;
+  height: 312px;
+  position: absolute;
+  left: 135px;
+  top: 5007px;
+}
+.mask-group {
+  width: 1170px;
+  height: 312px;
+  position: static;
+}
+.rectangle-641 {
+  background: #00000000;
+  opacity: 0.30000001192092896;
+  width: 1170px;
+  height: 312px;
+  position: absolute;
+  left: 135px;
+  top: 5007px;
+}
+.patern {
+  position: absolute;
+  left: 135px;
+  top: 5340.45px;
+  transform: translate(0px, -333.45px);
+  overflow: visible;
+}
+.patern2 {
+  position: absolute;
+  left: 1305px;
+  top: 5340.45px;
+  transform: translate(-585px, -333.45px);
+  overflow: visible;
+}
+.background {
+  width: 469.37px;
+  height: 272.9px;
+  position: static;
+}
+.pattern-background {
+  position: absolute;
+  left: 683.27px;
+  top: 5113.28px;
+  overflow: visible;
+}
+.get-our-daily-updates-by-subscribing-to-our-newspaper-please-drop-your-email-below {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/30px "Rubik", sans-serif;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 407px;
+  top: 5124px;
+  width: 627px;
+  height: 29px;
+}
+.group-1708 {
+  width: 838.5px;
+  height: 78px;
+  position: static;
+}
+.rectangle-627 {
+  background: #ffffff;
+  border-radius: 70px;
+  width: 838.5px;
+  height: 78px;
+  position: absolute;
+  left: 300.75px;
+  top: 5184.45px;
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.07);
+}
+.enter-your-email-addres {
+  color: var(--primary, #363853);
+  text-align: center;
+  font: 400 18px/30px "Rubik", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 344px;
+  top: 5209px;
+  width: 207px;
+  height: 29px;
+}
+.rectangle-628 {
+  background: var(--secondary, #ff7a50);
+  border-radius: 70px;
+  width: 191.1px;
+  height: 58.5px;
+  position: absolute;
+  left: 938.4px;
+  top: 5194px;
+}
+.frame {
+  width: 15.6px;
+  height: 15.6px;
+  position: absolute;
+  left: 962.78px;
+  top: 5216px;
+  overflow: hidden;
+}
+.group37 {
+  position: absolute;
+  left: 1.3px;
+  top: 0.65px;
+  overflow: visible;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: center;
+  font: 500 20px/30px "Rubik", sans-serif;
+  position: absolute;
+  left: 986px;
+  top: 5209px;
+  width: 110px;
+  height: 29px;
+}
+.subscribe-to-get-the-latest-offer {
+  color: #ffffff;
+  text-align: center;
+  font: 500 40px "Rubik", sans-serif;
+  position: absolute;
+  left: 404px;
+  top: 5066px;
+  width: 632px;
+  height: 46px;
+}
+.section-5 {
+  position: absolute;
+  inset: 0;
+}
+.content7 {
+  width: 1162px;
+  height: 528px;
+  position: static;
+}
+.mask-group2 {
+  width: 433px;
+  height: 528px;
+  position: static;
+}
+.rectangle-512 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 433px;
+  height: 528px;
+  position: absolute;
+  left: 141px;
+  top: 4355px;
+  box-shadow: 0px 22px 40px 0px rgba(254, 182, 54, 0.08);
+}
+.rectangle-8 {
+  border-radius: 24px;
+  width: 433.38px;
+  height: 519.59px;
+  position: absolute;
+  left: 140.58px;
+  top: 4362px;
+  box-shadow: 0px 22px 40px 0px rgba(254, 182, 54, 0.08);
+}
+.text {
+  width: 661px;
+  height: 358px;
+  position: static;
+}
+.someshit {
+  color: #dddddd;
+  text-align: left;
+  font: 400 80px "Nunito", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 4409px;
+  width: 32px;
+  height: 76px;
+}
+.someshit2 {
+  color: #dddddd;
+  text-align: left;
+  font: 400 80px "Nunito", sans-serif;
+  position: absolute;
+  left: 1303px;
+  top: 4627px;
+  width: 32px;
+  height: 81px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.anglina-jole {
+  color: var(--secondary, #ff7a50);
+  text-align: left;
+  font: 500 20px "Rubik", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 4708px;
+}
+.food-lover {
+  color: #aaaaaa;
+  text-align: left;
+  font: 400 14px "Rubik", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 4750px;
+}
+.e-food-has-the-most-intriguing-food-order-system-in-the-country-ui-in-both-their-app-and-web-is-very-simple-and-easy-to-use-enhancing-the-ux-their-delivery-men-are-also-quite-professional-and-knows-the-neighborhood-well-till-now-i-never-had-to-guide-them-to-my-address-for-delivery {
+  color: var(--primary, #363853);
+  text-align: left;
+  font: 400 20px/45px "Rubik", sans-serif;
+  position: absolute;
+  left: 688px;
+  top: 4428px;
+  width: 573px;
+  height: 206px;
+}
+.arrow-left {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1139px;
+  top: 4727px;
+}
+.arrow-left2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-27 {
+  width: 32px;
+  height: 32px;
+  position: static;
+}
+.arrow-right {
+  border-radius: 5px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1215px;
+  top: 4727px;
+}
+.arrow-right2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.what-our-client-are-saying {
+  text-align: left;
+  font: 500 36px "Rubik", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 4252px;
+}
+.what-our-client-are-saying-span {
+  color: var(--primary, #363853);
+  font: 500 36px "Rubik", sans-serif;
+}
+.what-our-client-are-saying-span2 {
+  color: var(--secondary, #ff7a50);
+  font: 500 36px "Rubik", sans-serif;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.address {
+  width: 181px;
+  height: 32px;
+  position: static;
+}
+.dhaka-bangladesh {
+  color: #37383d;
+  text-align: left;
+  font: 400 16px/32px "DM Sans", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 5509px;
+  width: 150px;
+}
+.iconly-light-location {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 155px;
+  top: 5513px;
+}
+.location {
+  position: absolute;
+  left: 4.5px;
+  top: 3px;
+  overflow: visible;
+}
+._0943833399 {
+  color: #37383d;
+  text-align: left;
+  font: 400 16px/32px "DM Sans", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 5556px;
+  width: 150px;
+}
+.iconly-light-calling {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 155px;
+  top: 5560px;
+}
+.calling {
+  position: absolute;
+  left: 2px;
+  top: 2.5px;
+  overflow: visible;
+}
+.address2 {
+  width: 195px;
+  height: 32px;
+  position: static;
+}
+.support-efood-com {
+  color: #37383d;
+  text-align: left;
+  font: 400 16px/32px "DM Sans", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 5603px;
+  width: 164px;
+}
+.iconly-light-message {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 155px;
+  top: 5607px;
+}
+.message {
+  position: absolute;
+  left: 2px;
+  top: 3px;
+  overflow: visible;
+}
+.sosmed {
+  width: 195px;
+  height: 39px;
+  position: static;
+}
+.facebook {
+  position: absolute;
+  left: 153px;
+  top: 5650px;
+  overflow: visible;
+}
+.twitter {
+  position: absolute;
+  left: 205px;
+  top: 5650px;
+  overflow: visible;
+}
+.instagram {
+  position: absolute;
+  left: 257px;
+  top: 5650px;
+  overflow: visible;
+}
+.pinterest {
+  position: absolute;
+  left: 309px;
+  top: 5650px;
+  overflow: visible;
+}
+.component-1 {
+  width: 116px;
+  height: 39px;
+  position: absolute;
+  left: 155px;
+  top: 5441px;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.e-food3 {
+  text-align: left;
+  font: 500 33px/80px "Rubik", sans-serif;
+  position: absolute;
+  left: -2px;
+  top: -20px;
+}
+.e-food-3-span {
+  color: var(--secondary, #ff7a50);
+  font: 500 33px/80px "Rubik", sans-serif;
+}
+.e-food-3-span2 {
+  color: var(--primary, #37383d);
+  font: 500 33px/80px "Rubik", sans-serif;
+}
+.footer-footer {
+  width: 1140px;
+  height: 14px;
+  position: static;
+}
+._2021-e-food-all-rights-reserved {
+  color: var(--medium-dark, #646464);
+  text-align: left;
+  font: 400 14px/14px "Rubik", sans-serif;
+  position: absolute;
+  left: 153px;
+  top: 5741px;
+}
+._2021-e-food-all-rights-reserved-span {
+  color: var(--medium-dark, #646464);
+  font: 400 14px/14px "Rubik", sans-serif;
+}
+._2021-e-food-all-rights-reserved-span2 {
+  color: var(--medium-dark, #646464);
+  font: 400 14px/14px "Rubik", sans-serif;
+}
+._2021-e-food-all-rights-reserved-span3 {
+  color: var(--medium-dark, #646464);
+  font: 400 14px/14px "Rubik", sans-serif;
+}
+.terms {
+  color: var(--medium-dark, #646464);
+  text-align: left;
+  font: 400 14px/14px "Rubik", sans-serif;
+  position: absolute;
+  left: 1253px;
+  top: 5741px;
+}
+.security {
+  color: var(--medium-dark, #646464);
+  text-align: left;
+  font: 400 14px/14px "Rubik", sans-serif;
+  position: absolute;
+  left: 1145px;
+  top: 5741px;
+}
+.privacy {
+  color: var(--medium-dark, #646464);
+  text-align: left;
+  font: 400 14px/14px "Rubik", sans-serif;
+  position: absolute;
+  left: 1045px;
+  top: 5741px;
+}
+.rectangle-1203 {
+  background: #969696;
+  opacity: 0.20000000298023224;
+  width: 1472px;
+  height: 1px;
+  position: absolute;
+  left: -16px;
+  top: 5714px;
+}
